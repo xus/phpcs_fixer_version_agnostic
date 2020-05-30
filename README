@@ -1,0 +1,5 @@
+## Code style fixer
+
+Based on PSR2 + my own prefrefences.
+
+Note-> Personalize the Finder with the specific project directories.
